@@ -29,9 +29,6 @@
     <a href="https://www.threads.net/@oderoi___">
     <img src="https://img.shields.io/badge/Threads-blue?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads Badge"/>
   </a>
- <!-- <a href="https://www.youtube.com/channel/UChTMJrIWqc2JnB8h3c-EyaQ?view_as=subscriber">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>-->
 </div>
 <hr>
 
